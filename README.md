@@ -1,11 +1,19 @@
 <div align="center">
 
-<!-- HEADER DINÁMICO -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=AGUSTÍN%20AGÜERO&fontSize=70&animation=fadeIn&fontAlignY=35&desc=ANALISTA%20DE%20SISTEMAS%20%7C%20FULLSTACK%20DEV&descSize=20&descAlignY=60" width="100%" />
+<!-- HEADER HTML NATIVO -->
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#000000">
+      <br>
+      <h1><font color="#ffffff" size="7" face="Courier New">AGUSTÍN AGÜERO</font></h1>
+      <h3><font color="#cccccc" size="4">ANALISTA DE SISTEMAS | FULLSTACK DEV</font></h3>
+      <br>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- STATS WIDGETS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agusaguerom&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=4c4546&icon_color=000000&include_all_commits=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusaguerom&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=4c4546&langs_count=6" height="150" />
@@ -15,22 +23,7 @@
 
 <div align="left">
 <h2>[ 01 ] CORE & STRATEGY</h2>
-<p>
-Mi enfoque combina el <b>análisis funcional</b> con la implementación técnica. Diseño la arquitectura lógica para asegurar escalabilidad y mantenimiento a largo plazo.
-</p>
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>01. ANÁLISIS</b><br>
-      Relevamiento, SRS, diagramas UML y wireframes para garantizar claridad funcional[cite: 1].
-    </td>
-    <td width="50%">
-      <b>02. EJECUCIÓN</b><br>
-      Desarrollo Fullstack y Mobile integrando modelos de IA y arquitecturas REST robustas[cite: 1].
-    </td>
-  </tr>
-</table>
+<p>Mi enfoque combina el <b>análisis funcional</b> con la implementación técnica, garantizando escalabilidad y mantenimiento a largo plazo.</p>
 </div>
 
 <br>
@@ -39,15 +32,21 @@ Mi enfoque combina el <b>análisis funcional</b> con la implementación técnica
 <h2>[ 02 ] FEATURED DEVELOPMENTS</h2>
 </div>
 
-<!-- Usando Cards de Repositorio -->
-<p align="center">
-  <a href="https://github.com/agusaguerom/Lectana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=agusaguerom&repo=Lectana&theme=transparent&hide_border=true&title_color=000000&text_color=4c4546" />
-  </a>
-  <a href="https://github.com/agusaguerom/Cineket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=agusaguerom&repo=Cineket&theme=transparent&hide_border=true&title_color=000000&text_color=4c4546" />
-  </a>
-</p>
+<!-- PROYECTOS DESTACADOS CON LINKS DIRECTOS -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/LECTANA-EdTech_SaaS-black?style=for-the-badge&logo=react" width="100%"><br>
+      Plataforma orientada a reducir la brecha educativa mediante recursos interactivos.<br><br>
+      <a href="https://github.com/agusaguerom/lectana-docs"><b>[ Ver Repositorio ]</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/CINEKET-Booking_System-white?style=for-the-badge&logo=springboot&logoColor=black" width="100%"><br>
+      Sistema de gestión y reserva de entradas. Arquitectura robusta en Java.<br><br>
+      <a href="https://github.com/agusaguerom/Cineket"><b>[ Ver Repositorio ]</b></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -57,12 +56,15 @@ Mi enfoque combina el <b>análisis funcional</b> con la implementación técnica
 <summary><b>Click para expandir el repositorio de soluciones</b></summary>
 <br>
 
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **Sistema Odontológico** | Gestión multi-sede, turnos y pacientes[cite: 1]. | `Node` `React` `Postgres` |
-| **Real Estate System** | Gestión inmobiliaria profesional con Spring Boot[cite: 1]. | `Java` `Spring` `MySQL` |
-| **Telegram Bot IoT** | Automatización de PC mediante ESP32 y bots[cite: 1]. | `C++` `Python` `IoT` |
-| **Cineket Mobile** | Versión mobile de la plataforma de reserva de entradas[cite: 1]. | `React Native` `Java` |
+| Proyecto | Descripción | Stack | Código |
+| :--- | :--- | :--- | :--- |
+| **Lectana** | Plataforma EdTech integral. | `Node` `Java` `React` | [Repo](https://github.com/agusaguerom/lectana-docs) |
+| **Cineket** | Sistema de reservas escalable. | `Java` `Spring` `MySQL` | [Repo](https://github.com/agusaguerom/Cineket) |
+| **Sistema Odontológico** | Gestión de turnos y pacientes. | `Node` `React` `Postgres` | [Repo](https://github.com/tomiiroma/clinica-odontologica) |
+| **Sistema de Gestion Inmobiliaria** | Gestión inmobiliaria profesional. | `Java` `Spring` `MySQL` | [Repo](https://github.com/tomiiroma/Tp_Gestor_Inmobiliaria) |
+| **Sistema de Reconocimiento IoT** | Sistema de Reconocimiento de Objetos vía ESP32. | `C++` `Python` `IoT` `ESP32` | [Repo]([https://github.com/tomiiroma/Tp_Gestor_Inmobiliaria](https://github.com/agusaguerom/ESP32CAM-Integracion) |
+| **OneKits Ecommerce** | Ecommerce para la tienda One Kits | `PHP` `Laravel` `MySQL`  | [Repo](https://github.com/agusaguerom/TP2-Plataformas) |
+| **MusiqIO** | Plataforma de Streaming de Musica | `Node.js` `React` `MySQL` `Docker  | [Repo](https://github.com/agusaguerom/TP2-Plataformas) |
 
 </details>
 </div>
@@ -74,16 +76,22 @@ Mi enfoque combina el <b>análisis funcional</b> con la implementación técnica
 </div>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" />
 </p>
-
 <br>
 
+<!-- WIDGET DE ACTIVIDAD RECIENTE (Reincorporado) -->
 <div align="left">
 <h3>[ 04 ] RECENT ACTIVITY</h3>
 <p align="center">
@@ -94,11 +102,12 @@ Mi enfoque combina el <b>análisis funcional</b> con la implementación técnica
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
-  <br><br>
+  <hr>
   <p><b>CONTACTO PROFESIONAL</b></p>
-  <a href="https://linkedin.com/in/agustin-aguero"><img src="https://img.shields.io/badge/LinkedIn-000?style=circle&logo=linkedin" /></a>
-  <a href="mailto:agusaguerom28@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=circle&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/agustin-aguero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:agusaguerom28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br><br>
-  <code>© 2026 Agustín Agüero // Analista de Sistemas // Escuela Da Vinci[cite: 1]</code>
+  <code>© 2026 Agustín Agüero // Analista de Sistemas // Escuela Da Vinci</code>
+</div>
+
 </div>
