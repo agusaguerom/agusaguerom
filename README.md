@@ -14,10 +14,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agusaguerom&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=4c4546&icon_color=000000&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusaguerom&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=4c4546&langs_count=6" height="150" />
-</p>
 
 ---
 
