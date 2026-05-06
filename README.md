@@ -62,7 +62,7 @@
 | **Cineket** | Sistema de reservas escalable. | `Java` `Spring` `MySQL` | [Repo](https://github.com/agusaguerom/Cineket) |
 | **Sistema Odontológico** | Gestión de turnos y pacientes. | `Node` `React` `Postgres` | [Repo](https://github.com/tomiiroma/clinica-odontologica) |
 | **Sistema de Gestion Inmobiliaria** | Gestión inmobiliaria profesional. | `Java` `Spring` `MySQL` | [Repo](https://github.com/tomiiroma/Tp_Gestor_Inmobiliaria) |
-| **Sistema de Reconocimiento IoT** | Sistema de Reconocimiento de Objetos vía ESP32. | `C++` `Python` `IoT` `ESP32` | [Repo]([https://github.com/tomiiroma/Tp_Gestor_Inmobiliaria](https://github.com/agusaguerom/ESP32CAM-Integracion) |
+| **Sistema de Reconocimiento IoT** | Sistema de Reconocimiento de Objetos vía ESP32. | `C++` `Python` `IoT` `ESP32` | [Repo](https://github.com/agusaguerom/ESP32CAM-Integracion) |
 | **OneKits Ecommerce** | Ecommerce para la tienda One Kits | `PHP` `Laravel` `MySQL`  | [Repo](https://github.com/agusaguerom/TP2-Plataformas) |
 | **MusiqIO** | Plataforma de Streaming de Musica | `Node.js` `React` `MySQL` `Docker  | [Repo](https://github.com/agusaguerom/TP2-Plataformas) |
 
@@ -104,7 +104,7 @@
 <div align="center">
   <hr>
   <p><b>CONTACTO PROFESIONAL</b></p>
-  <a href="https://linkedin.com/in/agustin-aguero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/agustin-ag%C3%BCero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:agusaguerom28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br><br>
   <code>© 2026 Agustín Agüero // Analista de Sistemas // Escuela Da Vinci</code>
